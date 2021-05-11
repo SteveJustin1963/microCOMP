@@ -1,4 +1,4 @@
-# microCOMP
+# tec-Micro-COMP
 
 TE 13-59
 
